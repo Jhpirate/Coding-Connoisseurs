@@ -7,7 +7,7 @@ CSC4350 Group Coding Project
 
 # Project Ideas:
 - AU Lost and Found System
-- Student Scheduler
+- ~~Student Scheduler~~ (No Longer Needed. Other Solution Found)
 - Fox Valley Injury Report Forms
 - Fox Valley Vehicle Tracking System
 	+ Likely too complex for time allotted. Would need additional hardware on methods of transport & lots of additional research. 
